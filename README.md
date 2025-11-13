@@ -1,2 +1,12 @@
 # Animated
 animated with gsap
+
+-[Demo Project](https://mohananoruztabar.github.io/modern-slider/)
+
+-🙋🏽‍♀️ Developed by Mohana Noruztabar
+
+-📅 Created - 2025-11-12
+
+-⚙ Technologies Used - Html , css , javascript
+
+-👩🏽‍💻 Role - Frontend
