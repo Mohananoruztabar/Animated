@@ -1,7 +1,7 @@
 # Animated
 animated with gsap
 
--[Demo Project](https://mohananoruztabar.github.io/modern-slider/)
+-[Demo Project](https://mohananoruztabar.github.io/Animated/)
 
 -🙋🏽‍♀️ Developed by Mohana Noruztabar
 
